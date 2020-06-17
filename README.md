@@ -11,6 +11,17 @@ npm install soap --save
 
 
 
+
+## SOAP:
+(instalación) https://www.soapui.org/getting-started/
+ 
+(wsdl de ejemplo) http://www.dneonline.com/calculator.asmx?wsdl
+
+
+
+
+
+
 Recursos:
 https://www.openssl.org/    ->criptografia
 
