@@ -1,5 +1,6 @@
 # afip-sac
-(Download soapui!)(https://www.soapui.org/downloads/soapui/)
+(Download IDE soapui!)(https://www.soapui.org/downloads/soapui/)
+sh sh SoapUI-x64-5.5.0.sh 
 
 
 1- (npm-soap)(https://www.npmjs.com/package/soap#install)
