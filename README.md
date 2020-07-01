@@ -55,4 +55,5 @@ https://www.openssl.org/    ->criptografia
 
 
 Bibliografia
+Para pdf ver https://www.npmjs.com/package/html-pdf
 http://www.afip.gob.ar/ws/aplicativos/default.asp
