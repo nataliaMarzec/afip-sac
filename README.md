@@ -1,3 +1,4 @@
+...En desarrollo:
 # afip-sac
 (Download IDE soapui!)(https://www.soapui.org/downloads/soapui/)
 sh sh SoapUI-x64-5.5.0.sh 
@@ -53,7 +54,7 @@ Recursos:
 https://www.openssl.org/    ->criptografia
 
 
-
 Bibliografia
+http://www.afip.gob.ar/ws/
 Para pdf ver https://www.npmjs.com/package/html-pdf
 http://www.afip.gob.ar/ws/aplicativos/default.asp
